@@ -4,7 +4,7 @@
 
 Dieses Repository dient als digitaler Anhang für meine Bachelorarbeit (Trabajo de Fin de Grado) im Studiengang Philologie der Modernen Sprachen und Literaturen. Die linguistische Untersuchung befasst sich mit der Lexik der aktuellen deutschen Jugendsprache in Songtexten der Urban Music und evaluiert deren Übertragung ins Spanische.
 
-Ein zentraler methodischer Fokus der Arbeit liegt auf der strengen konzeptionellen Abgrenzung zwischen standardisierten maschinellen Übersetzungstools (wie DeepL oder Google Translate) und Großen Sprachmodellen (LLMs). Um die soziokulturelle Transferleistung und die dynamische Äquivalenz generativer KI bei stark kontextabhängiger Lexik zu analysieren, dokumentiert dieses Repository die experimentellen Rohdaten der Untersuchung.
+Ein zentraler methodischer Fokus der Arbeit liegt auf der Analyse der soziokulturellen Transferleistung und der dynamischen Äquivalenz generativer KI bei stark kontextabhängiger Lexik. Dieses Repository dokumentiert die experimentellen Rohdaten der Untersuchung.
 
 ## Inhalt des Repositories
 
