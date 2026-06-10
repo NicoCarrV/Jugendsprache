@@ -10,7 +10,7 @@ Ein zentraler methodischer Fokus der Arbeit liegt auf der Analyse der soziokultu
 
 Dieses Repository ist auf das wesentliche Textmaterial beschränkt und enthält **ausschließlich**:
 
-* **Originaltexte (Ausgangssprache):** Die Transkriptionen von sieben ausgewählten deutschen Rap- und Pop-Songs, die als Resonanzraum für jugendsprachliche Neologismen, Entlehnungen (Anglizismen, Arabismen, Turzismen) und popkulturelle Referenzen dienen.
+* **Originaltexte (Ausgangssprache):** Die Transkriptionen von sechs ausgewählten deutschen Rap- und Pop-Songs, die als Resonanzraum für jugendsprachliche Neologismen, Entlehnungen (Anglizismen, Arabismen, Turzismen) und popkulturelle Referenzen dienen.
 * **KI-Übersetzungen (Zielsprache):** Die unbearbeiteten spanischen Zieltexte. Um die Leistungsfähigkeit und die Übersetzungsstrategien (formale vs. funktionale Äquivalenz) vergleichend darzustellen, wurden zwei spezifische LLMs herangezogen:
 * **ChatGPT** (OpenAI)
 * **Gemini** (Google)
